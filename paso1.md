@@ -1,0 +1,4 @@
+#Problemática#
+Como una persona con gustos musicales variados tengo la problemática que al querer tocar una canción con todos los instrumentos es complicado saber qué instrumentos se están tocando en la canción, un ejemplo de este tipo de aplicación seria la aplicación “shazam” que puede identificar música pregrabada desde cualquier lugar si proviene de alguna fuente, suene en la radio, en la televisión, en el cine o en un club, que proviene de un fondo musical no muy elevado que permita reconocer la huella acústica, si la canción se encuentra en el software de la base de datos del sistema.
+En este caso sería un ejemplo muy parecido pero este reconocería que instrumento se está tocando en la canción buscada.
+Al realizar el proyecto me pude dar cuentas que no solo podría detectar que instrumentos lleva, sino que también en un futuro podría mostrarte la tablatura del instrumento para poderla tocar al instante de buscarla.
